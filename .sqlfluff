@@ -1,0 +1,6 @@
+[sqlfluff]
+# Specify the SQL dialect to use. Change this value if you prefer a different dialect.
+dialect = postgres
+
+# Choose the templater. 'raw' is recommended if you're not using any templating.
+templater = raw
